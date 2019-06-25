@@ -1,0 +1,19 @@
+.memo {
+  background-color: green;
+  display:inline-block;
+  padding: 80px;
+  height: 50px;
+  width: 50px;
+}
+.error{
+  background-color: blue;
+}
+.marca{
+  background-color: purple;
+}
+.bomba{
+  background-color: red;
+}
+.ocultos{
+  background-color: black;
+}
